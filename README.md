@@ -14,7 +14,7 @@ python test_pl.py
 
 ### Code for Fig.18
 ```
-python 
+python Main.py
 ```
 
 ## Citation
